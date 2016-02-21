@@ -1,0 +1,7 @@
+D:\Mephist\RFID Project - NEW\CSL Console Mode Demo\bin\Release\CSL Console Mode Demo.exe
+D:\Mephist\RFID Project - NEW\CSL Console Mode Demo\bin\Release\CSL Console Mode Demo.pdb
+D:\Mephist\RFID Project - NEW\CSL Console Mode Demo\bin\Release\CSLibrary.dll
+D:\Mephist\RFID Project - NEW\CSL Console Mode Demo\bin\Release\CSLibrary.pdb
+D:\Mephist\RFID Project - NEW\CSL Console Mode Demo\obj\Release\ResolveAssemblyReference.cache
+D:\Mephist\RFID Project - NEW\CSL Console Mode Demo\obj\Release\CSL Console Mode Demo.exe
+D:\Mephist\RFID Project - NEW\CSL Console Mode Demo\obj\Release\CSL Console Mode Demo.pdb

@@ -1,0 +1,12 @@
+
+
+1.3.2
+------
+1. CSLibrary update to 3.0.67
+   - Fix problem of UDB port hold on when the target machine not response.
+   CSLibrary update to 3.0.65
+   - Fix can not run GPI interrupt routine
+   - Change GPI interrupt API call parameter format
+   CSLibrary update to 3.0.63
+   - Fix some time holding 1516 port problem
+

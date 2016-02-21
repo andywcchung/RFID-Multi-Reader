@@ -1,0 +1,25 @@
+D:\Mephist\RFID Project - NEW\CSL Console Mode Demo\obj\Debug\ResolveAssemblyReference.cache
+D:\Mephist\RFID Project - NEW\CSL Console Mode Demo\bin\Debug\CSL Console Mode Demo.exe
+D:\Mephist\RFID Project - NEW\CSL Console Mode Demo\bin\Debug\CSL Console Mode Demo.pdb
+D:\Mephist\RFID Project - NEW\CSL Console Mode Demo\bin\Debug\CSLibrary.dll
+D:\Mephist\RFID Project - NEW\CSL Console Mode Demo\bin\Debug\CSLibrary.Diagnostics.dll
+D:\Mephist\RFID Project - NEW\CSL Console Mode Demo\bin\Debug\CSLibrary.Diagnostics.pdb
+D:\Mephist\RFID Project - NEW\CSL Console Mode Demo\bin\Debug\CSLibrary.pdb
+D:\Mephist\RFID Project - NEW\CSL Console Mode Demo\obj\Debug\CSL Console Mode Demo.exe
+D:\Mephist\RFID Project - NEW\CSL Console Mode Demo\obj\Debug\CSL Console Mode Demo.pdb
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Sample Program\CSL Console Mode Demo\CSL Console Mode Demo\obj\Debug\CSL Console Mode Demo.exe
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Sample Program\CSL Console Mode Demo\CSL Console Mode Demo\obj\Debug\CSL Console Mode Demo.pdb
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Sample Program\CSL Console Mode Demo\CSL Console Mode Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Sample Program\CSL Console Mode Demo\CSL Console Mode Demo\bin\Debug\CSL Console Mode Demo.exe
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Sample Program\CSL Console Mode Demo\CSL Console Mode Demo\bin\Debug\CSL Console Mode Demo.pdb
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Sample Program\CSL Console Mode Demo\CSL Console Mode Demo\bin\Debug\CSLibrary.dll
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Sample Program\CSL Console Mode Demo\CSL Console Mode Demo\bin\Debug\CSLibrary.pdb
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL Console Mode Demo\obj\Debug\CSL Console Mode Demo.exe
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL Console Mode Demo\obj\Debug\CSL Console Mode Demo.pdb
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL Sample MultiReader Reconnect\bin\Debug\CSL Sample MulitReader Reconnect.exe
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL Sample MultiReader Reconnect\bin\Debug\CSL Sample MulitReader Reconnect.pdb
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL Sample MultiReader Reconnect\bin\Debug\CSLibrary.dll
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL Sample MultiReader Reconnect\bin\Debug\CSLibrary.pdb
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL Sample MultiReader Reconnect\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL Sample MultiReader Reconnect\obj\Debug\CSL Sample MulitReader Reconnect.exe
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL Sample MultiReader Reconnect\obj\Debug\CSL Sample MulitReader Reconnect.pdb

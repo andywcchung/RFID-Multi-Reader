@@ -1,0 +1,35 @@
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.1.0\obj\Release\CSL Sample MulitReader Reconnect.exe
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.1.0\obj\Release\CSL Sample MulitReader Reconnect.pdb
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.1.0\bin\Release\CSL Sample MulitReader Reconnect.exe
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.1.0\bin\Release\CSL Sample MulitReader Reconnect.pdb
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.1.0\obj\Release\ResolveAssemblyReference.cache
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.1.0\bin\Release\CSLibrary.dll
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.1.0\bin\Release\CSLibrary.pdb
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.1.2\obj\Release\CSL Sample MulitReader Reconnect.exe
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.1.2\obj\Release\CSL Sample MulitReader Reconnect.pdb
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.1.2\bin\Release\CSL Sample MulitReader Reconnect.exe
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.1.2\bin\Release\CSL Sample MulitReader Reconnect.pdb
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.1.2\bin\Release\CSLibrary.dll
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.1.2\bin\Release\CSLibrary.pdb
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.1.2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.2.2\obj\Release\CSL Sample MulitReader Reconnect.exe
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.2.2\obj\Release\CSL Sample MulitReader Reconnect.pdb
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.2.2\bin\Release\CSL Sample MulitReader Reconnect.exe
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.2.2\bin\Release\CSL Sample MulitReader Reconnect.pdb
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.2.2\bin\Release\CSLibrary.dll
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.2.2\bin\Release\CSLibrary.pdb
+C:\Users\steve.tsoi\Desktop\Download_Support\CSL_NEW_DL_Nov2013\Software_API\Software_API_CSharp\MultiReader\CSL CSharp Native MultiReader Demo Build v1.2.2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL CSharp Native MultiReader Demo Build v1.3.1\obj\Release\CSL Sample MulitReader Reconnect.exe
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL CSharp Native MultiReader Demo Build v1.3.1\obj\Release\CSL Sample MulitReader Reconnect.pdb
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL CSharp Native MultiReader Demo Build v1.3.1\bin\Release\CSL Sample MulitReader Reconnect.exe
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL CSharp Native MultiReader Demo Build v1.3.1\bin\Release\CSL Sample MulitReader Reconnect.pdb
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL CSharp Native MultiReader Demo Build v1.3.1\bin\Release\CSLibrary.dll
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL CSharp Native MultiReader Demo Build v1.3.1\bin\Release\CSLibrary.pdb
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL CSharp Native MultiReader Demo Build v1.3.1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL CSharp Native MultiReader Demo Build v1.3.2\obj\Release\CSL Sample MulitReader Reconnect.exe
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL CSharp Native MultiReader Demo Build v1.3.2\obj\Release\CSL Sample MulitReader Reconnect.pdb
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL CSharp Native MultiReader Demo Build v1.3.2\bin\Release\CSL Sample MulitReader Reconnect.exe
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL CSharp Native MultiReader Demo Build v1.3.2\bin\Release\CSL Sample MulitReader Reconnect.pdb
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL CSharp Native MultiReader Demo Build v1.3.2\bin\Release\CSLibrary.dll
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL CSharp Native MultiReader Demo Build v1.3.2\bin\Release\CSLibrary.pdb
+C:\Users\steve.tsoi\Documents\Visual Studio 2008\Projects\CSL CSharp Native MultiReader Demo Build v1.3.2\obj\Release\ResolveAssemblyReference.cache

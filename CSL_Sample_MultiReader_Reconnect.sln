@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSL_Sample_MultiReader_Reconnect", "CSL_Sample_MultiReader_Reconnect.csproj", "{81726A6C-8856-4BDD-91D3-040BE1AE4A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81726A6C-8856-4BDD-91D3-040BE1AE4A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81726A6C-8856-4BDD-91D3-040BE1AE4A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81726A6C-8856-4BDD-91D3-040BE1AE4A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81726A6C-8856-4BDD-91D3-040BE1AE4A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CSL Console Mode Demo.csproj
+	EndGlobalSection
+EndGlobal

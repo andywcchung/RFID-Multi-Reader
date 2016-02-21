@@ -1,0 +1,22 @@
+192.168.25.204 : Reader is disconnected          2014-06-23 15:30:01 UTC +08:00
+192.168.25.205 : Reader is disconnected          2014-06-23 15:30:12 UTC +08:00
+2014-06-23 15:30:22 UTC +08:00
+192.168.25.204 : Reconnecting Reader #1 attempt .... 
+Reader < 192.168.25.204 > fails to reconnect
+
+2014-06-23 15:30:33 UTC +08:00
+192.168.25.205 : Reconnecting Reader #1 attempt .... 
+Reader < 192.168.25.205 > fails to reconnect
+
+2014-06-23 15:30:39 UTC +08:00
+192.168.25.204 : Reconnecting Reader #2 attempt .... 
+Reader < 192.168.25.204 > is reconnected
+
+2014-06-23 15:30:55 UTC +08:00
+192.168.25.205 : Reconnecting Reader #2 attempt .... 
+Reader < 192.168.25.205 > fails to reconnect
+
+2014-06-23 15:31:09 UTC +08:00
+192.168.25.205 : Reconnecting Reader #3 attempt .... 
+Reader < 192.168.25.205 > is reconnected
+
